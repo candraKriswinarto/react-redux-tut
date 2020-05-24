@@ -1,6 +1,6 @@
 import React from 'react';
-import AddPost from './AddPost';
-import PostList from './PostList';
+import {AddPost} from './AddPost';
+import {PostList} from './PostList';
 
 export const HomePage = () => {
   return (
