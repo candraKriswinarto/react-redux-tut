@@ -23,7 +23,7 @@ export const AddPost = () => {
       title: "",
       content: "",
     });
-  };
+  }
 
   return (
     <div className="container" style={{ margin: "4rem auto" }}>
